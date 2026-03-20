@@ -1,0 +1,3 @@
+C:/Users/WIN/CLionProjects/algorithm and flowchart foojanbabaeeian C++/cmake-build-debug/CMakeFiles/algorithm_and_flowchart_foojanbabaeeian_C__.dir
+C:/Users/WIN/CLionProjects/algorithm and flowchart foojanbabaeeian C++/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/WIN/CLionProjects/algorithm and flowchart foojanbabaeeian C++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
