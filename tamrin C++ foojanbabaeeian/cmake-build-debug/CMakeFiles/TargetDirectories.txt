@@ -1,0 +1,3 @@
+C:/Users/WIN/CLionProjects/tamrin C++ foojanbabaeeian/cmake-build-debug/CMakeFiles/tamrin_C___foojanbabaeeian.dir
+C:/Users/WIN/CLionProjects/tamrin C++ foojanbabaeeian/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/WIN/CLionProjects/tamrin C++ foojanbabaeeian/cmake-build-debug/CMakeFiles/rebuild_cache.dir
